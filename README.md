@@ -1,1 +1,1 @@
-# Django_practice
+# Django_practice an edited version
